@@ -1,0 +1,22 @@
+csv_header = [
+    "Id", 
+    "Name", 
+    "Type", 
+    "Copy", 
+    "Image", 
+    "Location",
+    "CorpStreet",
+    "ZipCode",
+    "City",
+    "Country",
+    "Tel",
+    "Fax",
+    "Email",
+    "LinkedIn",
+    "Facebook",
+    "Instagram",
+    "Twitter",
+    "Xing",
+    "Web",
+    "Product"
+    ]

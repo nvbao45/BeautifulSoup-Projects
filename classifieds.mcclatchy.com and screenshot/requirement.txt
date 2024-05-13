@@ -1,0 +1,11 @@
+I need a simple python script made. Should not take no longer than a day to complete.
+
+Go to url https://classifieds.mcclatchy.com/marketplace/biloxi#navlink=navbar
+Click Legals
+Click Legals & Public Notices
+Change to 50 results per page
+Sort By newest First
+Click each "Show More" links (Just the first and second page which will be 100 records)
+Grab data on that page which should be Class "Linkify"
+Screenshot whole page
+Output all info to csv file. Put screenshots in folder with csv file.
